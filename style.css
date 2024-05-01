@@ -1,0 +1,43 @@
+body {
+    height: 100vh;
+    background-color: #81829B;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    margin-right: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    float: right;
+    
+}
+
+.drr{
+    float: left;
+   
+}
+
+.su{
+    float: right;
+}
+
+.ey{
+    float: left;
+   
+}
+
+.h{
+    float: right;
+}
+
+.aos{
+    float: left;
+    
+}
+
+.suu, .hh{
+    background-color: #81829B;
+}
+
+.drrr, .eyy, .aoss{
+    background-color: #9BB0C1;
+}
